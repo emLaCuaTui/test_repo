@@ -8,5 +8,5 @@ class ChineseChef(Chef):
     def make_fried_rice(self):
         print("The chef makes fried rice")
         
-    def kill_people_with_knife()
+    def kill_people_with_knife():
         print("ererererer")
