@@ -9,4 +9,4 @@ class ChineseChef(Chef):
         print("The chef makes fried rice")
         
     def kill_people_with_knife():
-        print("ererererer")
+        print("This is a commit from 2:37")
